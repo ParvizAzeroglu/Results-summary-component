@@ -32,7 +32,7 @@ function SummarySide() {
       <h3 className={styles.summaryHeader}>Summary</h3>
       <ul className={styles.summaryList}>
         <SummaryItem
-          img="./assets/images/icon-reaction.svg"
+          img="icon-reaction.svg"
           rating={80}
           color="hsl(0, 100%, 67%)"
           backgroundColor="hsla(0, 100%, 67%, 0.1)"
@@ -41,7 +41,7 @@ function SummarySide() {
         </SummaryItem>
 
         <SummaryItem
-          img="./assets/images/icon-memory.svg"
+          img="icon-memory.svg"
           rating={92}
           color="hsl(39, 100%, 56%)"
           backgroundColor="hsla(39, 100%, 56%, 0.1)"
@@ -50,7 +50,7 @@ function SummarySide() {
         </SummaryItem>
 
         <SummaryItem
-          img="./assets/images/icon-verbal.svg"
+          img="icon-verbal.svg"
           rating={61}
           color="hsl(166, 100%, 37%)"
           backgroundColor="hsla(166, 100%, 37%, 0.1)"
@@ -59,7 +59,7 @@ function SummarySide() {
         </SummaryItem>
 
         <SummaryItem
-          img="./assets/images/icon-visual.svg"
+          img="icon-visual.svg"
           rating={72}
           color="hsl(234, 85%, 45%)"
           backgroundColor="hsla(234, 85%, 45%, 0.1)"
